@@ -2,6 +2,24 @@ books
 =====
 Books Library tracking app
 
+Installation
+-----
+1. Create new virtual environments
+  python -m venv bookslibpy
+
+2. Activate the virtual environment
+  bookslibpy/bin/activate
+
+3. Chekout bookslibrary
+   git clone bookslibrary
+
+4. Navigate to bookslibrary\libs_proj directory
+
+5. Install the app
+
+	(bookslibpy) $ pip install ./libs_proj/
+
+ 
 Usage
 -----
 
